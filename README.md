@@ -1,9 +1,11 @@
-# Continual-Learning-Papers
+# Continual Learning Papers
 
 
 ## Table of Contents
+1. [Catastrophic Forgetting](#cf)
+2. [Stability vs Plasticity](#svp)
 
-
+<a name='cf'></a> 
 ## Catastrophic Forgetting 
 * [Catastrophic Interference in Connectionist Networks: The Sequential Learning Problem](https://www.sciencedirect.com/science/article/abs/pii/S0079742108605368) by Michael McCloskey, Neal J. Cohen. Psychology of Learning and Motivation Vol.24 (1989)
 * [Virtual memories and Massive Generalization in Connectionist Combinatorial Learning](https://escholarship.org/uc/item/0dn8w2wb) by Brousse, O., & Smolensky, P. In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 11)(1989).
@@ -23,7 +25,24 @@
 * [Architecture Matters in Continual Learning](https://arxiv.org/abs/2202.00275) by Seyed Iman Mirzadeh, Arslan Chaudhry, Dong Yin, Timothy Nguyen, Razvan Pascanu, Dilan Gorur, Mehrdad Farajtabar. arXiv preprint (2022)
 * [Wide Neural Networks Forget Less Catastrophically](https://proceedings.mlr.press/v162/mirzadeh22a.html) by Mirzadeh, S. I., Chaudhry, A., Yin, D., Hu, H., Pascanu, R., Gorur, D., & Farajtabar, M.  In International Conference on Machine Learning(2022)  
 
+<a name='svp'></a>
 ## Stability vs Plasticity
 * [Memory retention – the synaptic stability versus plasticity dilemma](https://www.cell.com/trends/neurosciences/abstract/S0166-2236(04)00370-4) by Abraham, W. C., & Robins, A.Trends in neurosciences, 28(2)(2005)
 * [The stability-plasticity dilemma: investigating the continuum from catastrophic forgetting to age-limited learning effects](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00504/full) by Mermillod, M., Bugaiska, A., & Bonin, P. . Frontiers in psychology, 4, 504(2013).    
 
+## Continual Learning Evaluation
+* [Re-evaluating Continual Learning Scenarios: A Categorization and Case for Strong Baselines](https://arxiv.org/abs/1810.12488) by Hsu, YenChang, YenCheng Liu, Anita Ramasamy, and Zsolt Kira.Continual Learning Workshop. In 32nd Conference on Neural Information Processing Systems.(2018)
+* [Towards Robust Evaluations of Continual Learning](https://arxiv.org/abs/1805.09733) by Farquhar, S., & Gal, Y. arXiv preprint(2018)  
+* [Three scenarios for continual learning](https://arxiv.org/abs/1904.07734) by Van de Ven, G. M., & Tolias, A. S. arXiv preprint(2019)
+
+
+## Continual Learning Surveys/Reviews
+* [Continual lifelong learning with neural networks: A review](https://www.sciencedirect.com/science/article/pii/S0893608019300231) by Parisi, G. I., Kemker, R., Part, J. L., Kanan, C., & Wermter, S. Neural networks, 113 (2019)
+* [Continual Learning with Neural Networks: A Review](https://dl.acm.org/doi/abs/10.1145/3297001.3297062) by Awasthi, A., & Sarawagi, S.  In Proceedings of the ACM India Joint International Conference on Data Science and Management of Data (2019)
+* [Embracing Change: Continual Learning in Deep Neural Networks](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-66132030219-9) by Hadsell, R., Rao, D., Rusu, A. A., & Pascanu, R. Trends in cognitive sciences, 24(12)(2020)
+* [The Present and Future of Continual Learning](https://ieeexplore.ieee.org/abstract/document/9289549) by Bae, H., Song, S., & Park, J. In 2020 International Conference on Information and Communication Technology Convergence (ICTC)
+* [A Continual Learning Survey: Defying Forgetting in Classification Tasks](https://ieeexplore.ieee.org/abstract/document/9349197) by De Lange, Matthias, Rahaf Aljundi, Marc Masana, Sarah Parisot, Xu Jia, Aleš Leonardis, Gregory Slabaugh, and Tinne Tuytelaars. IEEE transactions on pattern analysis and machine intelligence, 44(7)(2021)
+* [Recent Advances of Continual Learning in Computer Vision: An Overview](https://arxiv.org/abs/2109.11369) by Qu, H., Rahmani, H., Xu, L., Williams, B., & Liu, J.arXiv preprint(2021) 
+* [Continual Learning of Natural Language Processing Tasks: A Survey](https://arxiv.org/abs/2211.12701) by Ke, Z., & Liu, B. arXiv preprint(2022)
+* [How to Reuse and Compose Knowledge for a Lifetime of Tasks: A Survey on Continual Learning and Functional Composition](https://arxiv.org/abs/2207.07730) by Mendez, J. A., & Eaton, E. arXiv preprint(2022)
+* [A Comprehensive Survey of Continual Learning: Theory, Method and Application](https://ieeexplore.ieee.org/abstract/document/10444954) by Wang, L., Zhang, X., Su, H., & Zhu, J. IEEE Transactions on Pattern Analysis and Machine Intelligence.(2024) 
