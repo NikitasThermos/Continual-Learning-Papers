@@ -4,6 +4,9 @@
 ## Table of Contents
 1. [Catastrophic Forgetting](#cf)
 2. [Stability vs Plasticity](#svp)
+3. [Continual Learning Evaluation](#eval)
+4. [Continual Learning Surveys/Reviews](#surveys)
+5. [Continual Learning Applications](#apps)
 
 <a name='cf'></a> 
 ## Catastrophic Forgetting 
@@ -30,12 +33,13 @@
 * [Memory retention – the synaptic stability versus plasticity dilemma](https://www.cell.com/trends/neurosciences/abstract/S0166-2236(04)00370-4) by Abraham, W. C., & Robins, A.Trends in neurosciences, 28(2)(2005)
 * [The stability-plasticity dilemma: investigating the continuum from catastrophic forgetting to age-limited learning effects](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00504/full) by Mermillod, M., Bugaiska, A., & Bonin, P. . Frontiers in psychology, 4, 504(2013).    
 
+<a name='eval'></a>
 ## Continual Learning Evaluation
 * [Re-evaluating Continual Learning Scenarios: A Categorization and Case for Strong Baselines](https://arxiv.org/abs/1810.12488) by Hsu, YenChang, YenCheng Liu, Anita Ramasamy, and Zsolt Kira.Continual Learning Workshop. In 32nd Conference on Neural Information Processing Systems.(2018)
 * [Towards Robust Evaluations of Continual Learning](https://arxiv.org/abs/1805.09733) by Farquhar, S., & Gal, Y. arXiv preprint(2018)  
 * [Three scenarios for continual learning](https://arxiv.org/abs/1904.07734) by Van de Ven, G. M., & Tolias, A. S. arXiv preprint(2019)
 
-
+<a name='surveys'></a>
 ## Continual Learning Surveys/Reviews
 * [Continual lifelong learning with neural networks: A review](https://www.sciencedirect.com/science/article/pii/S0893608019300231) by Parisi, G. I., Kemker, R., Part, J. L., Kanan, C., & Wermter, S. Neural networks, 113 (2019)
 * [Continual Learning with Neural Networks: A Review](https://dl.acm.org/doi/abs/10.1145/3297001.3297062) by Awasthi, A., & Sarawagi, S.  In Proceedings of the ACM India Joint International Conference on Data Science and Management of Data (2019)
@@ -46,3 +50,35 @@
 * [Continual Learning of Natural Language Processing Tasks: A Survey](https://arxiv.org/abs/2211.12701) by Ke, Z., & Liu, B. arXiv preprint(2022)
 * [How to Reuse and Compose Knowledge for a Lifetime of Tasks: A Survey on Continual Learning and Functional Composition](https://arxiv.org/abs/2207.07730) by Mendez, J. A., & Eaton, E. arXiv preprint(2022)
 * [A Comprehensive Survey of Continual Learning: Theory, Method and Application](https://ieeexplore.ieee.org/abstract/document/10444954) by Wang, L., Zhang, X., Su, H., & Zhu, J. IEEE Transactions on Pattern Analysis and Machine Intelligence.(2024) 
+
+<a name='apps'></a>
+## Continual Learning Applications
+* [Neural Topic Modeling with Continual Lifelong Learning](https://proceedings.mlr.press/v119/gupta20a.html) by Gupta, P., Chaudhary, Y., Runkler, T., & Schuetze, H. In International Conference on Machine Learning(2020).
+* [Continual Learning Of Predictive Models In Video Sequences Via Variational Autoencoders](https://ieeexplore.ieee.org/abstract/document/9190980) by Campo, D., Slavic, G., Baydoun, M., Marcenaro, L., & Regazzoni, C. In 2020 IEEE International Conference on Image Processing.
+* [Continual Learning for Unsupervised Anomaly Detection in Continuous Auditing of Financial Accounting Data
+](https://arxiv.org/abs/2112.13215) by Hemati, H., Schreyer, M., & Borth, D.arXiv preprint(2021)
+* [Incremental Learning for End-to-End Automatic Speech Recognition](https://ieeexplore.ieee.org/abstract/document/9687910) by Fu, L., Li, X., Zi, L., Zhang, Z., Wu, Y., He, X., & Zhou, B. In 2021 IEEE Automatic Speech Recognition and Understanding Workshop.
+* [The Traffic Flow Prediction Method Using the Incremental Learning-Based CNN-LTSM Model: The Solution of Mobile Application](https://onlinelibrary.wiley.com/doi/full/10.1155/2021/5579451) by Shao, Y., Zhao, Y., Yu, F., Zhu, H., & Fang, J. .Mobile Information Systems, 2021
+
+## Continual Learning Frameworks
+* [Dark Experience for General Continual Learning: a Strong, Simple Baseline](https://proceedings.neurips.cc/paper/2020/hash/b704ea2c39778f07c617f6b7ce480e9e-Abstract.html) by Buzzega, P., Boschini, M., Porrello, A., Abati, D., & Calderara, S. Advances in neural information processing systems, 33(2020)
+* [Class-Incremental Continual Learning Into the eXtended DER-Verse](https://ieeexplore.ieee.org/abstract/document/9891836) by Boschini, M., Bonicelli, L., Buzzega, P., Porrello, A., & Calderara, S.IEEE transactions on pattern analysis and machine intelligence, 45(5)(2022)
+
+## Parameter Isolation Methods
+### Dynamic Architectures
+* [A self-organising network that grows when required](https://www.sciencedirect.com/science/article/abs/pii/S0893608002000783) by Marsland, S., Shapiro, J., & Nehmzow, U. Neural networks, 15(8-9)(2002)
+* [Knowledge Transfer in Deep Block-Modular Neural Networks](https://link.springer.com/chapter/10.1007/978-3-319-22979-9_27) by Terekhov, A. V., Montone, G., & O’Regan, J. K. In Biomimetic and Biohybrid Systems: 4th International Conference, Living Machines 2015
+* [Progressive Neural Networks](https://arxiv.org/abs/1606.04671) by Rusu, Andrei A., Neil C. Rabinowitz, Guillaume Desjardins, Hubert Soyer, James Kirkpatrick, Koray Kavukcuoglu, Razvan Pascanu, and Raia Hadsell. arXiv preprint(2016)  
+* [Expert Gate: Lifelong Learning With a Network of Experts](https://openaccess.thecvf.com/content_cvpr_2017/html/Aljundi_Expert_Gate_Lifelong_CVPR_2017_paper.html) by Aljundi, R., Chakravarty, P., & Tuytelaars, T.  In Proceedings of the IEEE conference on computer vision and pattern recognition(2017)
+* [Lifelong Learning with Dynamically Expandable Networks](https://arxiv.org/abs/1708.01547) by Yoon, J., Yang, E., Lee, J., & Hwang, S. J.arXiv preprint(2017)
+* [Reinforced Continual Learning](https://proceedings.neurips.cc/paper/2018/hash/cee631121c2ec9232f3a2f028ad5c89b-Abstract.html) by Xu, J., & Zhu, Z. Advances in neural information processing systems, 31.(2018)
+* [Incremental Learning Through Deep Adaptation](https://ieeexplore.ieee.org/abstract/document/8554156) by Rosenfeld, A., & Tsotsos, J. K. IEEE transactions on pattern analysis and machine intelligence, 42(3)(2018)  
+* [Compacting, Picking and Growing for Unforgetting Continual Learning](https://proceedings.neurips.cc/paper/2019/hash/3b220b436e5f3d917a1e649a0dc0281c-Abstract.html) by Hung, C. Y., Tu, C. H., Wu, C. E., Chen, C. H., Chan, Y. M., & Chen, C. S.. Advances in neural information processing systems, 32.(2019)
+* [Learning to Remember: A Synaptic Plasticity Driven Framework for Continual Learning](https://openaccess.thecvf.com/content_CVPR_2019/html/Ostapenko_Learning_to_Remember_A_Synaptic_Plasticity_Driven_Framework_for_Continual_CVPR_2019_paper.html) by Ostapenko, O., Puscas, M., Klein, T., Jahnichen, P., & Nabi, M.In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition(2019)
+* [Efficient Continual Learning with Modular Networks and Task-Driven Priors](https://arxiv.org/abs/2012.12631) by Veniat, T., Denoyer, L., & Ranzato, M. A. arXiv preprint(2020)  
+* [BNS: Building Network Structures Dynamically for Continual Learning](https://proceedings.neurips.cc/paper_files/paper/2021/hash/ac64504cc249b070772848642cffe6ff-Abstract.html) by Qin, Q., Hu, W., Peng, H., Zhao, D., & Liu, B. Advances in Neural Information Processing Systems, 34,(2021)
+* [Bayesian Structural Adaptation for Continual Learning](https://proceedings.mlr.press/v139/kumar21a.html) by Kumar, A., Chatterjee, S., & Rai, P. In International Conference on Machine Learning(2021)
+* [Continual Learning via Local Module Composition](https://proceedings.neurips.cc/paper/2021/hash/fe5e7cb609bdbe6d62449d61849c38b0-Abstract.html) by Ostapenko, O., Rodriguez, P., Caccia, M., & Charlin, L. Advances in Neural Information Processing Systems, 34(2021)
+* [Model Zoo: A Growing "Brain" That Learns Continually](https://arxiv.org/abs/2106.03027) by Ramesh, R., & Chaudhari, P. arXiv preprint(2021)
+* [CoSCL: Cooperation of Small Continual Learners is Stronger Than a Big One](https://link.springer.com/chapter/10.1007/978-3-031-19809-0_15) by Wang, L., Zhang, X., Li, Q., Zhu, J., & Zhong, Y. In European Conference on Computer Vision(2022)
+
