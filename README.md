@@ -82,3 +82,20 @@
 * [Model Zoo: A Growing "Brain" That Learns Continually](https://arxiv.org/abs/2106.03027) by Ramesh, R., & Chaudhari, P. arXiv preprint(2021)
 * [CoSCL: Cooperation of Small Continual Learners is Stronger Than a Big One](https://link.springer.com/chapter/10.1007/978-3-031-19809-0_15) by Wang, L., Zhang, X., Li, Q., Zhu, J., & Zhong, Y. In European Conference on Computer Vision(2022)
 
+### Fixed Networks
+* [PathNet: Evolution Channels Gradient Descent in Super Neural Networks](https://arxiv.org/abs/1701.08734) by Fernando, Chrisantha, Dylan Banarse, Charles Blundell, Yori Zwols, David Ha, Andrei A. Rusu, Alexander Pritzel, and Daan Wierstra. arXiv preprint(2017)
+* [PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning](https://openaccess.thecvf.com/content_cvpr_2018/html/Mallya_PackNet_Adding_Multiple_CVPR_2018_paper.html) by Mallya, A., & Lazebnik, S. In Proceedings of the IEEE conference on Computer Vision and Pattern Recognition(2018)
+* [Overcoming Catastrophic Forgetting with Hard Attention to the Task](https://proceedings.mlr.press/v80/serra18a) by Serra, J., Suris, D., Miron, M., & Karatzoglou, A. In International conference on machine learning(2018)
+* [Piggyback: Adapting a Single Network to Multiple Tasks by Learning to Mask Weights](https://openaccess.thecvf.com/content_ECCV_2018/html/Arun_Mallya_Piggyback_Adapting_a_ECCV_2018_paper.html) by Mallya, A., Davis, D., & Lazebnik, S. In Proceedings of the European conference on computer vision(2018) 
+* [Continual Learning via Neural Pruning](https://arxiv.org/abs/1903.04476) by Golkar, S., Kagan, M., & Cho, K. arXiv preprint(2019)
+* [Uncertainty-based Continual Learning with Adaptive Regularization](https://proceedings.neurips.cc/paper/2019/hash/2c3ddf4bf13852db711dd1901fb517fa-Abstract.html) by Ahn, H., Cha, S., Lee, D., & Moon, T. Advances in neural information processing systems, 32(2019)
+* [Continual Learning with Node-Importance based Adaptive Group Sparse Regularization](https://proceedings.neurips.cc/paper/2020/hash/258be18e31c8188555c2ff05b4d542c3-Abstract.html) by Jung, S., Ahn, H., Cha, S., & Moon, T. Advances in neural information processing systems, 33(2020)
+* [Supermasks in Superposition](https://proceedings.neurips.cc/paper/2020/hash/ad1f8bb9b51f023cdc80cf94bb615aa9-Abstract.html) by Wortsman, M., Ramanujan, V., Liu, R., Kembhavi, A., Rastegari, M., Yosinski, J., & Farhadi, A.  Advances in Neural Information Processing Systems, 33(2020)
+* [Helpful or Harmful: Inter-task Association in Continual Learning](https://link.springer.com/chapter/10.1007/978-3-031-20083-0_31) by in, H., & Kim, E.  In European Conference on Computer Vision(2022)
+* [Meta-Attention for ViT-Backed Continual Learning](https://openaccess.thecvf.com/content/CVPR2022/html/Xue_Meta-Attention_for_ViT-Backed_Continual_Learning_CVPR_2022_paper.html) by Xue, M., Zhang, H., Song, J., & Song, M. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition(2022)
+* [NISPA: Neuro-Inspired Stability-Plasticity Adaptation for Continual Learning in Sparse Networks](https://arxiv.org/abs/2206.09117) by Gurbuz, M. B., & Dovrolis, C. arXiv preprint(2022)
+* [Forget-free Continual Learning with Winning Subnetworks](https://proceedings.mlr.press/v162/kang22b.html) by Kang, H., Mina, R. J. L., Madjid, S. R. H., Yoon, J., Hasegawa-Johnson, M., Hwang, S. J., & Yoo, C. D. In International Conference on Machine Learning(2022)
+
+
+
+
