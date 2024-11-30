@@ -96,6 +96,21 @@
 * [NISPA: Neuro-Inspired Stability-Plasticity Adaptation for Continual Learning in Sparse Networks](https://arxiv.org/abs/2206.09117) by Gurbuz, M. B., & Dovrolis, C. arXiv preprint(2022)
 * [Forget-free Continual Learning with Winning Subnetworks](https://proceedings.mlr.press/v162/kang22b.html) by Kang, H., Mina, R. J. L., Madjid, S. R. H., Yoon, J., Hasegawa-Johnson, M., Hwang, S. J., & Yoo, C. D. In International Conference on Machine Learning(2022)
 
+### Model Decomposition
+* [Scalable and Order-robust Continual Learning with Additive Parameter Decomposition](https://arxiv.org/abs/1902.09432) by Yoon, J., Kim, S., Yang, E., & Hwang, S. J. arXiv preprint(2019)  
+* [Adversarial Continual Learning](https://link.springer.com/chapter/10.1007/978-3-030-58621-8_23) by Ebrahimi, S., Meier, F., Calandra, R., Darrell, T., & Rohrbach, M. In Computer Vision–ECCV 2020
+* [Conditional Channel Gated Networks for Task-Aware Continual Learning](https://openaccess.thecvf.com/content_CVPR_2020/html/Abati_Conditional_Channel_Gated_Networks_for_Task-Aware_Continual_Learning_CVPR_2020_paper.html) by Abati, D., Tomczak, J., Blankevoort, T., Calderara, S., Cucchiara, R., & Bejnordi, B. E. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition(2020)
+* [Calibrating CNNs for Lifelong Learning](https://proceedings.neurips.cc/paper/2020/hash/b3b43aeeacb258365cc69cdaf42a68af-Abstract.html) by Singh, P., Verma, V. K., Mazumder, P., Carin, L., & Rai, P.  Advances in Neural Information Processing Systems, 33(2020)
+* [Reparameterizing Convolutions for Incremental Multi-Task Learning Without Task Interference](https://link.springer.com/chapter/10.1007/978-3-030-58565-5_41) by Kanakis, M., Bruggemann, D., Saha, S., Georgoulis, S., Obukhov, A., & Van Gool, L. In Computer Vision–ECCV 2020
+* [Generalized Variational Continual Learning](https://arxiv.org/abs/2011.12328) by Loo, N., Swaroop, S., & Turner, R. E. arXiv preprint(2020)
+* [Continual Learning with Filter Atom Swapping](https://openreview.net/forum?id=metRpM4Zrcb) by Miao, Z., Wang, Z., Chen, W., & Qiu, Q. In International Conference on Learning Representations(2021).
+* [Continual Learning using a Bayesian Nonparametric Dictionary of Weight Factors](https://proceedings.mlr.press/v130/mehta21a.html) by Mehta, N., Liang, K., Verma, V. K., & Carin, L.In International Conference on Artificial Intelligence and Statistics(2021)
+* [Optimizing Reusable Knowledge for Continual Learning via Metalearning](https://proceedings.neurips.cc/paper/2021/hash/761e6675f9e54673cc778e7fdb2823d2-Abstract.html) by Hurtado, J., Raymond, A., & Soto, A. Advances in Neural Information Processing Systems, 34(2021)
+* [Incremental Learning via Rate Reduction](https://openaccess.thecvf.com/content/CVPR2021/html/Wu_Incremental_Learning_via_Rate_Reduction_CVPR_2021_paper.html) by Wu, Z., Baek, C., You, C., & Ma, Y. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition(2021)
+* [DyTox: Transformers for Continual Learning With DYnamic TOken eXpansion](https://openaccess.thecvf.com/content/CVPR2022/html/Douillard_DyTox_Transformers_for_Continual_Learning_With_DYnamic_TOken_eXpansion_CVPR_2022_paper.html) by Douillard, A., Ramé, A., Couairon, G., & Cord, M. n Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition(2022)
+
+
+
 
 
 
