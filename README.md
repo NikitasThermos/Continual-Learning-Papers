@@ -7,6 +7,8 @@
 3. [Continual Learning Evaluation](#eval)
 4. [Continual Learning Surveys/Reviews](#surveys)
 5. [Continual Learning Applications](#apps)
+6. [Continual Learning Frameworks](#frameworks)
+7. [Parameter Isolation Methods](#pi)
 
 <a name='cf'></a> 
 ## Catastrophic Forgetting 
@@ -60,10 +62,12 @@
 * [Incremental Learning for End-to-End Automatic Speech Recognition](https://ieeexplore.ieee.org/abstract/document/9687910) by Fu, L., Li, X., Zi, L., Zhang, Z., Wu, Y., He, X., & Zhou, B. In 2021 IEEE Automatic Speech Recognition and Understanding Workshop.
 * [The Traffic Flow Prediction Method Using the Incremental Learning-Based CNN-LTSM Model: The Solution of Mobile Application](https://onlinelibrary.wiley.com/doi/full/10.1155/2021/5579451) by Shao, Y., Zhao, Y., Yu, F., Zhu, H., & Fang, J. .Mobile Information Systems, 2021
 
+<a name='frameworks'></a>
 ## Continual Learning Frameworks
 * [Dark Experience for General Continual Learning: a Strong, Simple Baseline](https://proceedings.neurips.cc/paper/2020/hash/b704ea2c39778f07c617f6b7ce480e9e-Abstract.html) by Buzzega, P., Boschini, M., Porrello, A., Abati, D., & Calderara, S. Advances in neural information processing systems, 33(2020)
 * [Class-Incremental Continual Learning Into the eXtended DER-Verse](https://ieeexplore.ieee.org/abstract/document/9891836) by Boschini, M., Bonicelli, L., Buzzega, P., Porrello, A., & Calderara, S.IEEE transactions on pattern analysis and machine intelligence, 45(5)(2022)
 
+<a name='pi'></a>
 ## Parameter Isolation Methods
 ### Dynamic Architectures
 * [A self-organising network that grows when required](https://www.sciencedirect.com/science/article/abs/pii/S0893608002000783) by Marsland, S., Shapiro, J., & Nehmzow, U. Neural networks, 15(8-9)(2002)
