@@ -9,6 +9,8 @@
 5. [Continual Learning Applications](#apps)
 6. [Continual Learning Frameworks](#frameworks)
 7. [Parameter Isolation Methods](#pi)
+8. [Replay Methods](#replay)
+9. [Reguralization Methods](#regularization)
 
 <a name='cf'></a> 
 ## Catastrophic Forgetting 
@@ -114,6 +116,7 @@
 * [Incremental Learning via Rate Reduction](https://openaccess.thecvf.com/content/CVPR2021/html/Wu_Incremental_Learning_via_Rate_Reduction_CVPR_2021_paper.html) by Wu, Z., Baek, C., You, C., & Ma, Y. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition(2021)
 * [DyTox: Transformers for Continual Learning With DYnamic TOken eXpansion](https://openaccess.thecvf.com/content/CVPR2022/html/Douillard_DyTox_Transformers_for_Continual_Learning_With_DYnamic_TOken_eXpansion_CVPR_2022_paper.html) by Douillard, A., Ramé, A., Couairon, G., & Cord, M. n Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition(2022)
 
+<a name='replay'></a>
 ## Replay Methods
 * [Catastrophic forgetting in neural networks: the role of rehearsal mechanisms](https://ieeexplore.ieee.org/abstract/document/323080) by Robins, A. In Proceedings 1993 The First New Zealand International Two-Stream Conference on Artificial Neural Networks and Expert Systems
 * [Pseudo-recurrent Connectionist Networks: An Approach to the 'Sensitivity-Stability' Dilemma](https://www.tandfonline.com/doi/abs/10.1080/095400997116595)) by French, R. M. Connection Science, 9(4)(1997)
@@ -132,6 +135,7 @@
 * [Continual Prototype Evolution: Learning Online From Non-Stationary Data Streams](https://openaccess.thecvf.com/content/ICCV2021/html/De_Lange_Continual_Prototype_Evolution_Learning_Online_From_Non-Stationary_Data_Streams_ICCV_2021_paper.html) by De Lange, M., & Tuytelaars, T. In Proceedings of the IEEE/CVF international conference on computer vision(2021)
 * [Pseudo-rehearsal: Achieving deep reinforcement learning without catastrophic forgetting](https://www.sciencedirect.com/science/article/abs/pii/S0925231220318439) by Atkinson, C., McCane, B., Szymanski, L., & Robins, A. Neurocomputing, 428(2021)  
 
+<a name='regularization'></a>
 ## Regularization Methods
 * [Less-forgetting Learning in Deep Neural Networks](https://arxiv.org/abs/1607.00122) by Jung, H., Ju, J., Jung, M., & Kim, J. arXiv preprint(2016)
 * [Encoder Based Lifelong Learning](https://openaccess.thecvf.com/content_iccv_2017/html/Rannen_Encoder_Based_Lifelong_ICCV_2017_paper.html) by Rannen, A., Aljundi, R., Blaschko, M. B., & Tuytelaars, T. IEEE international conference on computer vision(2017)
